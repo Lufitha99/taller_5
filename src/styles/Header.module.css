@@ -1,0 +1,15 @@
+.active{
+  border-bottom: 1px solid rgb(66, 66, 66);
+  font-weight: 500;
+}
+
+.header{
+  background: rgb(32, 32, 32);
+  color: white;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+  text-align: center;
+}
+.nota{
+  font-size: xx-small;
+}
